@@ -7,3 +7,5 @@
 5-  beat mix
 6- cook
 7- eat
+
+don't forget to do dishes
